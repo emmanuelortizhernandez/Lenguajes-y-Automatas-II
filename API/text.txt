@@ -1,0 +1,15 @@
+- Crea un virtural Environment:
+python - m venv venv
+- Activa virtural Environment:
+Windows: .\venv\Scripts\activate
+Bash: source venv/bin/activate
+
+========================
+Si no cuentas con alguna librería puedes importarla en terminal:
+========================
+
+pip intall xlutils
+pip install xlwt
+pip install xlrd
+pip install Flask
+pip install flask_jwt_extended
